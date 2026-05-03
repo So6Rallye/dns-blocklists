@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 16:56 UTC
-# Version: 2026.0502.1656.00
+# Last modified: 03 May 2026 03:31 UTC
+# Version: 2026.0503.0331.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 3468
+# Number of entries: 3469
 #
 ss.0001.xyz
 003153.xyz
@@ -2188,6 +2188,7 @@ dns.miyun1.com
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
+moamao.shop
 dnstls.mobik.com
 query.mobyds.com
 doh.mochou.site

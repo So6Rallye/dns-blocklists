@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 16:57 UTC
-# Version: 2026.0502.1657.35
+# Last modified: 03 May 2026 01:40 UTC
+# Version: 2026.0503.0140.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 9970
+# Number of entries: 9969
 #
 0.gp
 00m.in
@@ -1563,7 +1563,6 @@ cgatx.com
 cgrp.io
 cgvoice.live
 ch.run
-ch-get.info
 cha.ms
 change-erp.com
 changelink.pro
@@ -1573,7 +1572,6 @@ chatg.pt
 cheap-bitcoin.online
 cheap-stocks.biz
 checkbill.biz
-checkshorturl.bio
 chekc.life
 chem.sg
 cherrykiss.club
@@ -1691,8 +1689,6 @@ clicky.me
 cliczy.com
 clientlinks.net
 clik.now
-clikk.in
-clikly.link
 clikr.ir
 cliks.co
 clikx.net
@@ -1706,7 +1702,6 @@ cliplinkly.com
 clipmy.link
 clipperlink.com
 clipurl.com
-clipurl.tech
 clipurl.us
 clipy.cx
 cliq.ing
@@ -2709,6 +2704,7 @@ fastserp.com
 fastslinks.site
 fasttory.com
 fasturl.link
+fattoincasadabenedetta.link
 faturl.com
 fav.me
 fave.co
@@ -4715,6 +4711,7 @@ lnk.co
 lnk.direct
 lnk.do
 lnk.gd
+lnk.ink
 lnk.jo
 lnk.ke
 lnk.news
@@ -7197,6 +7194,7 @@ shortlk.co
 shortlk.com
 shortll.com
 shortlnk.app
+shortlnk.co
 shortlnk.xyz
 shortlr.com
 shortlurl.com
@@ -8605,6 +8603,7 @@ u4r.net
 u4y.ch
 u6e.de
 u99.pro
+u9x.wtf
 uabio.me
 uafly.co
 ual.fyi

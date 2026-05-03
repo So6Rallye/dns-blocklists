@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 May 2026 16:58 UTC
-# Version: 2026.0502.1658.06
+# Last modified: 03 May 2026 03:25 UTC
+# Version: 2026.0503.0325.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 12413
+# Number of entries: 12435
 #
 003396815.xyz
 004430.xyz
@@ -228,6 +228,8 @@ tracker.1h.is
 1soft.space
 1stream.top
 1street.ru
+1tamilblasters.date
+1tamilblasters.gripe
 1tamilblasters.how
 1tamilmv.army
 1tamilmv.gs
@@ -1377,6 +1379,7 @@ bit-latino.com
 bit-torrent.ru
 bit66.com
 bitcine.app
+bitcine.net
 bitcity.hu
 tracker.bitcoinindia.space
 bitcomet.com
@@ -1640,6 +1643,7 @@ box4k.com
 boxbit.org
 boxfilmes.net
 boxingstreams100.com
+boxingusa.info
 boxofficewatch.com
 boxopus.com
 boxpirates.to
@@ -1719,6 +1723,7 @@ tracker.btzoo.eu
 bubarindpr.com
 buchkammer.sbs
 buddyfly.top
+buffmovie.com
 buffstream.io
 buffstreams.app
 buffstreams.sx
@@ -1799,6 +1804,7 @@ threads.canofsocks.com
 capcutmod.io
 capcutmodapk.id
 carapax.net
+cargostream.net
 carparkingmultimod.com
 tracker.carpt.net
 carr.codes
@@ -2068,7 +2074,6 @@ cineblog01.tv
 cineblog01.ventures
 cineblog01.vet
 cineblog01.vg
-cineblog01.wine
 cineblog01.ws
 cineblog01.wtf
 cineblog01.xn--6frz82g
@@ -2190,7 +2195,6 @@ cmovieshd.vip
 cmovieshd.xyz
 cn101.ru
 cnetworkbd.net
-cny.fan
 321movies.co.uk
 althub.co.za
 an1.co.in
@@ -2294,7 +2298,6 @@ flemmix.com.cv
 fnet.com.bd
 tracker.frontalweb.com.ar
 ftp.com.bd
-futebolaovivogratis.com.br
 hdclub.com.ua
 hdfilme.com.cv
 hdhub4ui.com.in
@@ -2324,7 +2327,6 @@ r1a.com.pl
 salamonline.com.bd
 seriezloaded.com.ng
 skynet.com.bd
-slnisp.com.bd
 soap2day.com.co
 starflix.com.br
 steamunlocked.com.br
@@ -5368,6 +5370,7 @@ ibit.to
 ibooks.bz
 ibooks.to
 iboxbd.online
+icbox.info
 icefilms.info
 icefilms-info.com
 icemovies.xyz
@@ -6309,6 +6312,7 @@ lnx-bbc.org
 load.to
 tracker.loadbt.com
 tracker.loadpeers.org
+loffe414wil.com
 logansmovies.com
 tracker.logirl.moe
 open.lolicon.eu
@@ -6343,6 +6347,7 @@ lordfilmkxe.icu
 lordfilmkxr.lat
 lordfilmtug.lol
 lordfilmuwq.ink
+lordflix.org
 qg.lorzl.gq
 losmovies.app
 losmovies.com
@@ -6457,6 +6462,7 @@ majomparade.com
 malacka.com
 malavida.com
 malaysiabay.org
+mallumv.cyou
 mallumv.life
 mamahd.best
 mamahd.org
@@ -6897,6 +6903,7 @@ moviebeamz.com
 moviebest.org
 moviebite.cc
 movieblogarea.com
+movieboxa.com
 movieboxbd.com
 moviecluphd.store
 moviecracker.net
@@ -7441,6 +7448,7 @@ newz-complex.org
 newzbin.com
 newzleech.com
 newznab.com
+nextflicks.link
 nextgenroms.com
 nextorrent.town
 nextwap.net
@@ -7551,6 +7559,7 @@ nortex.cc
 nortorrent.town
 nossoplayeronlinehd.blog
 nosteamgames.ro
+nostrem.click
 novafile.com
 novaflix.io
 novafork.com
@@ -8198,6 +8207,7 @@ powerstress.com
 powerstresser.com
 powertracker.org
 forum.ppcwarez.org
+ppitv.pl
 t.ppnow.net
 ppv.land
 pqham.com
@@ -8431,6 +8441,7 @@ qimanhwa.com
 tracker.qingwapt.org
 qiq.ws
 musicmania.ql.lt
+qmovies.net
 qoob.name
 qqdl.site
 qtstm32fan.ru
@@ -8693,6 +8704,7 @@ rojadirecta.top
 rojadirecta.tv
 rojadirecta.video
 rojadirecta.watch
+rojadirectablog.com
 rojadirectaenhd.net
 rojadirectaenvivo.club
 rojadirectaenvivo.com
@@ -9067,6 +9079,7 @@ sharkstresser.com
 members.shaw.ca
 shawty.club
 shd247.live
+shd247.pro
 shhahid4u.day
 shhahid4u.net
 shhahid4u.show
@@ -9235,6 +9248,7 @@ soaper.tv
 soaper.vip
 soaperpage.com
 soapgate.org
+soapnatur.com
 sobt18.sbs
 socagol.tv
 soccerbite.net
@@ -9306,6 +9320,7 @@ solarmovies.win
 solarmovies-sc.lol
 solarmoviez.ru
 solarmoviez.to
+solartv.to
 solarwolf23.live
 solidsoftwaretools.com
 solidtorrents.net
@@ -9546,6 +9561,7 @@ streamcomplet.com
 streamcomplet.io
 streamcomplet.me
 streamcomplets.net
+streamconnect.us
 streamcouch.com
 streamdeouf.rip
 streamdor.com
@@ -9861,10 +9877,12 @@ streamm4u.tv
 streamm4u.ws
 streammaster.xyz
 streammovies.to
+streamobs.click
 streamonhd.me
 streamonsport.net
 streamonsport28.xyz
 streamoz.me
+streampass.cc
 streamruby.com
 streams.center
 streamshunters.com
@@ -9966,6 +9984,7 @@ supercartoons.net
 supercdn.cc
 superflix.pro
 superflix.vc
+superflixapi.online
 superfutebol.tv
 supernetbd.com
 supernova.to
@@ -9997,6 +10016,7 @@ swefilmer.to
 swetv.org
 tracker.swifte.space
 swiftnetbd.com
+swiftstream.top
 swteam.ws
 bestoflinks.synology.me
 ibksturm.synology.me
@@ -10371,6 +10391,7 @@ tinyzone.tv
 tinyzonetv.cc
 tinyzonetv.to
 tioanime.com
+tipstrong.click
 tipucrack.com
 tiranator.com
 tiraz.net
@@ -11880,6 +11901,7 @@ windytrail24.online
 winghd.com
 winitpro.ru
 winneritbd.com
+winning2day.com
 winobraz.net
 wintorr.com
 wintorrents.ru

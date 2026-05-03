@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777741020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777772400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 May 2026 16:57 UTC
-; Version: 2026.0502.1657.35
+; Last modified: 03 May 2026 01:40 UTC
+; Version: 2026.0503.0140.15
 ; Syntax: RPZ
-; Number of entries: 19940
+; Number of entries: 19938
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1025,8 +1025,6 @@ biofy.bio CNAME .
 *.biofy.bio CNAME .
 bitx.bio CNAME .
 *.bitx.bio CNAME .
-checkshorturl.bio CNAME .
-*.checkshorturl.bio CNAME .
 cixi.bio CNAME .
 *.cixi.bio CNAME .
 clic.bio CNAME .
@@ -2857,6 +2855,8 @@ shortenme.co CNAME .
 *.shortenme.co CNAME .
 shortlk.co CNAME .
 *.shortlk.co CNAME .
+shortlnk.co CNAME .
+*.shortlnk.co CNAME .
 shortmylink.co CNAME .
 *.shortmylink.co CNAME .
 shortturl.co CNAME .
@@ -9881,8 +9881,6 @@ cfre.in CNAME .
 *.cfre.in CNAME .
 cityreach.in CNAME .
 *.cityreach.in CNAME .
-clikk.in CNAME .
-*.clikk.in CNAME .
 boostability.co.in CNAME .
 *.boostability.co.in CNAME .
 kutt.co.in CNAME .
@@ -10355,8 +10353,6 @@ bizlinks.info CNAME .
 *.bizlinks.info CNAME .
 calendrierbdp.info CNAME .
 *.calendrierbdp.info CNAME .
-ch-get.info CNAME .
-*.ch-get.info CNAME .
 cinecom.info CNAME .
 *.cinecom.info CNAME .
 cookcenter.info CNAME .
@@ -10605,6 +10601,8 @@ linkt.ink CNAME .
 *.linkt.ink CNAME .
 lionl.ink CNAME .
 *.lionl.ink CNAME .
+lnk.ink CNAME .
+*.lnk.ink CNAME .
 makemyl.ink CNAME .
 *.makemyl.ink CNAME .
 njfl.ink CNAME .
@@ -12551,8 +12549,6 @@ clica.link CNAME .
 *.clica.link CNAME .
 clickurl.link CNAME .
 *.clickurl.link CNAME .
-clikly.link CNAME .
-*.clikly.link CNAME .
 clipmy.link CNAME .
 *.clipmy.link CNAME .
 compact.link CNAME .
@@ -12635,6 +12631,8 @@ fastfilehost.link CNAME .
 *.fastfilehost.link CNAME .
 fasturl.link CNAME .
 *.fasturl.link CNAME .
+fattoincasadabenedetta.link CNAME .
+*.fattoincasadabenedetta.link CNAME .
 fbstw.link CNAME .
 *.fbstw.link CNAME .
 ffxiv.link CNAME .
@@ -18025,8 +18023,6 @@ allinonetool.tech CNAME .
 *.allinonetool.tech CNAME .
 b2g.tech CNAME .
 *.b2g.tech CNAME .
-clipurl.tech CNAME .
-*.clipurl.tech CNAME .
 enbl.tech CNAME .
 *.enbl.tech CNAME .
 l.enes.tech CNAME .
@@ -19719,6 +19715,8 @@ ka.wtf CNAME .
 *.ka.wtf CNAME .
 tj.wtf CNAME .
 *.tj.wtf CNAME .
+u9x.wtf CNAME .
+*.u9x.wtf CNAME .
 wee.wtf CNAME .
 *.wee.wtf CNAME .
 pixel.xin CNAME .
