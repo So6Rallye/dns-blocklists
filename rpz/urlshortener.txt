@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777880820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777913760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 07:47 UTC
-; Version: 2026.0504.0747.56
+; Last modified: 04 May 2026 16:56 UTC
+; Version: 2026.0504.1656.41
 ; Syntax: RPZ
-; Number of entries: 19896
+; Number of entries: 19874
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2049,8 +2049,6 @@ klic.click CNAME .
 *.klic.click CNAME .
 linkapp.click CNAME .
 *.linkapp.click CNAME .
-linksc.click CNAME .
-*.linksc.click CNAME .
 lnkly.click CNAME .
 *.lnkly.click CNAME .
 macanplay.click CNAME .
@@ -2695,8 +2693,6 @@ mney.co CNAME .
 *.mney.co CNAME .
 u1.mnge.co CNAME .
 *.u1.mnge.co CNAME .
-monetiza.co CNAME .
-*.monetiza.co CNAME .
 moomusic.co CNAME .
 *.moomusic.co CNAME .
 mvmtwatch.co CNAME .
@@ -5261,8 +5257,6 @@ lnkmob.com CNAME .
 *.lnkmob.com CNAME .
 lnkr1.com CNAME .
 *.lnkr1.com CNAME .
-lnkshk.com CNAME .
-*.lnkshk.com CNAME .
 lnkshort.com CNAME .
 *.lnkshort.com CNAME .
 lnktee.com CNAME .
@@ -12339,10 +12333,6 @@ linelive.life CNAME .
 *.linelive.life CNAME .
 mainaku.life CNAME .
 *.mainaku.life CNAME .
-monghaiba.life CNAME .
-*.monghaiba.life CNAME .
-monghainam.life CNAME .
-*.monghainam.life CNAME .
 mytbg.life CNAME .
 *.mytbg.life CNAME .
 nalo.life CNAME .
@@ -13235,16 +13225,10 @@ microsoftfiles.live CNAME .
 *.microsoftfiles.live CNAME .
 mmccwilson.live CNAME .
 *.mmccwilson.live CNAME .
-monghaibon.live CNAME .
-*.monghaibon.live CNAME .
 munchbet.live CNAME .
 *.munchbet.live CNAME .
-mysexychat.live CNAME .
-*.mysexychat.live CNAME .
 nanatech.live CNAME .
 *.nanatech.live CNAME .
-nefeli.live CNAME .
-*.nefeli.live CNAME .
 neweden.live CNAME .
 *.neweden.live CNAME .
 nimex.live CNAME .
@@ -14383,6 +14367,8 @@ shorti.me CNAME .
 *.shorti.me CNAME .
 shortit.me CNAME .
 *.shortit.me CNAME .
+shortlnk.me CNAME .
+*.shortlnk.me CNAME .
 shortme.me CNAME .
 *.shortme.me CNAME .
 shortna.me CNAME .
@@ -14713,8 +14699,6 @@ aaa.moda CNAME .
 *.aaa.moda CNAME .
 sht.moe CNAME .
 *.sht.moe CNAME .
-linux.mom CNAME .
-*.linux.mom CNAME .
 zeus4d.mom CNAME .
 *.zeus4d.mom CNAME .
 inf.money CNAME .
@@ -17077,8 +17061,6 @@ li-nk.ro CNAME .
 *.li-nk.ro CNAME .
 lnk2.ro CNAME .
 *.lnk2.ro CNAME .
-loy.ro CNAME .
-*.loy.ro CNAME .
 url.lumeapresei.ro CNAME .
 *.url.lumeapresei.ro CNAME .
 microlink.ro CNAME .
@@ -19073,8 +19055,6 @@ kuty.us CNAME .
 *.kuty.us CNAME .
 linkfrom.us CNAME .
 *.linkfrom.us CNAME .
-linkpool.us CNAME .
-*.linkpool.us CNAME .
 lltxt.us CNAME .
 *.lltxt.us CNAME .
 lnkup.us CNAME .
@@ -19405,8 +19385,6 @@ linkrefferal.vip CNAME .
 *.linkrefferal.vip CNAME .
 linkwede.vip CNAME .
 *.linkwede.vip CNAME .
-masterpoing.vip CNAME .
-*.masterpoing.vip CNAME .
 medicalmarijuana.vip CNAME .
 *.medicalmarijuana.vip CNAME .
 megalink.vip CNAME .

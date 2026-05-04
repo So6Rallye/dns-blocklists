@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 09:51 UTC
-# Version: 2026.0504.0951.11
+# Last modified: 04 May 2026 16:55 UTC
+# Version: 2026.0504.1655.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3457
+# Number of entries: 3451
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2003,7 +2003,6 @@
 *.leecurrylawfirm.com
 *.adblock.leenit.kr
 *.yarp.lefolgoc.net
-*.br.servers.legat.ml
 *.externalmobiel.lekdijk.online
 *.sndkcuf.lekun.me
 *.dns.lepilleur.com
@@ -2032,7 +2031,6 @@
 *.africadns1.liquidtelecom.net
 *.africadns2.liquidtelecom.net
 *.sers.lirlab.su
-*.dns.liruz.fr
 *.dns.listo.click
 *.dns.lithvik.com
 *.dns.litong.dev
@@ -2056,7 +2054,6 @@
 *.deweerd.loseyourip.com
 *.ddd.loukky.com
 *.ddd3.loukky.com
-*.lovekers.cn
 *.n5.lsasss.com
 *.dns.lsho.top
 *.lslnyjq.uk
@@ -2078,7 +2075,6 @@
 *.orau.lz0724.com
 *.orjp4.lz0724.com
 *.addns1.m-it.ro
-*.ag.m0fo.com
 *.v971850.macloud.host
 *.dns.mafyuh.io
 *.guard.magic-pics.tk
@@ -2164,7 +2160,6 @@
 *.mikezhang.xyz
 *.dns.mikopono.nl
 *.rwkdwpwsyv48.mikopono.nl
-*.dns.milkpie.one
 *.dns.millernetwork.uk
 *.aitkcrev.minhduc.pw
 *.minilla.store
@@ -2363,7 +2358,6 @@
 *.dns.netvpn.net
 *.cube.neubsi.at
 *.dns.neubsi.at
-*.katherine-dns.newcore.cl
 *.doh.nexen.cloud
 *.doh.luigi.nexific.it
 *.dns.nextdns.io

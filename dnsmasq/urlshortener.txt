@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 07:47 UTC
-# Version: 2026.0504.0747.56
+# Last modified: 04 May 2026 16:56 UTC
+# Version: 2026.0504.1656.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9948
+# Number of entries: 9937
 #
 local=/0.gp/
 local=/00m.in/
@@ -4505,7 +4505,6 @@ local=/linkpara.bio/
 local=/linkpatel.com/
 local=/linkpays.in/
 local=/app.linkpod.co/
-local=/linkpool.us/
 local=/linkpop.com/
 local=/linkpop.in/
 local=/linkprotbkita.com/
@@ -4525,7 +4524,6 @@ local=/links2.me/
 local=/links4money.com/
 local=/linksa.me/
 local=/linksable.to/
-local=/linksc.click/
 local=/linkscop.me/
 local=/linksdr.com/
 local=/linksdude.com/
@@ -4623,7 +4621,6 @@ local=/linqr.cc/
 local=/linqry.com/
 local=/linqup.in/
 local=/lintlink.com/
-local=/linux.mom/
 local=/linxonly.com/
 local=/lionl.ink/
 local=/liquid.loans/
@@ -4716,7 +4713,6 @@ local=/lnks.ai/
 local=/lnks.city/
 local=/lnks.es/
 local=/lnks.fr/
-local=/lnkshk.com/
 local=/lnkshort.com/
 local=/lnktee.com/
 local=/lnkup.us/
@@ -4778,7 +4774,6 @@ local=/low.es/
 local=/low-5.com/
 local=/lowrihouston.pro/
 local=/lowx.de/
-local=/loy.ro/
 local=/r.lp2.me/
 local=/lpc.ca/
 local=/lph.la/
@@ -4930,7 +4925,6 @@ local=/masklink.org/
 local=/masl.to/
 local=/l2.mastercoria.com/
 local=/masterlink.dev/
-local=/masterpoing.vip/
 local=/masuk.cfd/
 local=/masuk.to/
 local=/masuk-id.info/
@@ -5184,10 +5178,6 @@ local=/momo.dm/
 local=/static.monactive.net/
 local=/trackingservice.monday.com/
 local=/mondoagram.com/
-local=/monetiza.co/
-local=/monghaiba.life/
-local=/monghaibon.live/
-local=/monghainam.life/
 local=/monly.id/
 local=/monster.cat/
 local=/info.montbell.com/
@@ -5363,7 +5353,6 @@ local=/myprivateproxies.org/
 local=/myqlixellink.com/
 local=/myqrcode.mobi/
 local=/myrxbmember.info/
-local=/mysexychat.live/
 local=/myshopurl.com/
 local=/myshortlink.info/
 local=/myshortlink.net/
@@ -5456,7 +5445,6 @@ local=/nearurl.com/
 local=/neatlink.ca/
 local=/nectarios.info/
 local=/neexulro.net/
-local=/nefeli.live/
 local=/nefix.de/
 local=/neflixenomovies.com/
 local=/nej.md/
@@ -7174,6 +7162,7 @@ local=/shortlk.com/
 local=/shortll.com/
 local=/shortlnk.app/
 local=/shortlnk.co/
+local=/shortlnk.me/
 local=/shortlnk.xyz/
 local=/shortlr.com/
 local=/shortlurl.com/

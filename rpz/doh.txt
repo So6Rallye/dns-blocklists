@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777888260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777913700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 09:51 UTC
-; Version: 2026.0504.0951.11
+; Last modified: 04 May 2026 16:55 UTC
+; Version: 2026.0504.1655.04
 ; Syntax: RPZ
-; Number of entries: 6914
+; Number of entries: 6902
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -369,8 +369,6 @@ agh.kacike.cl CNAME .
 *.agh.kacike.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
-katherine-dns.newcore.cl CNAME .
-*.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
 connect-with.click CNAME .
@@ -529,8 +527,6 @@ dns.jerryw.cn CNAME .
 *.dns.jerryw.cn CNAME .
 dn.kyay006.cn CNAME .
 *.dn.kyay006.cn CNAME .
-lovekers.cn CNAME .
-*.lovekers.cn CNAME .
 dns.mbrjun.cn CNAME .
 *.dns.mbrjun.cn CNAME .
 dns.muxinghe.cn CNAME .
@@ -1365,8 +1361,6 @@ orau.lz0724.com CNAME .
 *.orau.lz0724.com CNAME .
 orjp4.lz0724.com CNAME .
 *.orjp4.lz0724.com CNAME .
-ag.m0fo.com CNAME .
-*.ag.m0fo.com CNAME .
 dns.malhuda.com CNAME .
 *.dns.malhuda.com CNAME .
 adguard.manmademagic.com CNAME .
@@ -2639,8 +2633,6 @@ doh.lacontrevoie.fr CNAME .
 *.doh.lacontrevoie.fr CNAME .
 le-mesle.fr CNAME .
 *.le-mesle.fr CNAME .
-dns.liruz.fr CNAME .
-*.dns.liruz.fr CNAME .
 dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
@@ -3567,8 +3559,6 @@ home.weisbrod.me CNAME .
 *.home.weisbrod.me CNAME .
 dns.xydustc.me CNAME .
 *.dns.xydustc.me CNAME .
-br.servers.legat.ml CNAME .
-*.br.servers.legat.ml CNAME .
 nop.mobi CNAME .
 *.nop.mobi CNAME .
 doh.aaaab3n.moe CNAME .
@@ -4563,8 +4553,6 @@ dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 server01.karl.one CNAME .
 *.server01.karl.one CNAME .
-dns.milkpie.one CNAME .
-*.dns.milkpie.one CNAME .
 one.one.one.one CNAME .
 *.one.one.one.one CNAME .
 opendns.one CNAME .

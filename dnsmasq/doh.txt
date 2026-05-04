@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 09:51 UTC
-# Version: 2026.0504.0951.11
+# Last modified: 04 May 2026 16:55 UTC
+# Version: 2026.0504.1655.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3457
+# Number of entries: 3451
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2003,7 +2003,6 @@ local=/tr.league1.xyz/
 local=/leecurrylawfirm.com/
 local=/adblock.leenit.kr/
 local=/yarp.lefolgoc.net/
-local=/br.servers.legat.ml/
 local=/externalmobiel.lekdijk.online/
 local=/sndkcuf.lekun.me/
 local=/dns.lepilleur.com/
@@ -2032,7 +2031,6 @@ local=/adg.lintasjrg.xyz/
 local=/africadns1.liquidtelecom.net/
 local=/africadns2.liquidtelecom.net/
 local=/sers.lirlab.su/
-local=/dns.liruz.fr/
 local=/dns.listo.click/
 local=/dns.lithvik.com/
 local=/dns.litong.dev/
@@ -2056,7 +2054,6 @@ local=/lordsalty.com/
 local=/deweerd.loseyourip.com/
 local=/ddd.loukky.com/
 local=/ddd3.loukky.com/
-local=/lovekers.cn/
 local=/n5.lsasss.com/
 local=/dns.lsho.top/
 local=/lslnyjq.uk/
@@ -2078,7 +2075,6 @@ local=/dns.lvolland.fr/
 local=/orau.lz0724.com/
 local=/orjp4.lz0724.com/
 local=/addns1.m-it.ro/
-local=/ag.m0fo.com/
 local=/v971850.macloud.host/
 local=/dns.mafyuh.io/
 local=/guard.magic-pics.tk/
@@ -2164,7 +2160,6 @@ local=/mikewaddick.com/
 local=/mikezhang.xyz/
 local=/dns.mikopono.nl/
 local=/rwkdwpwsyv48.mikopono.nl/
-local=/dns.milkpie.one/
 local=/dns.millernetwork.uk/
 local=/aitkcrev.minhduc.pw/
 local=/minilla.store/
@@ -2363,7 +2358,6 @@ local=/resolv2.nettplus.net/
 local=/dns.netvpn.net/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
-local=/katherine-dns.newcore.cl/
 local=/doh.nexen.cloud/
 local=/doh.luigi.nexific.it/
 local=/dns.nextdns.io/

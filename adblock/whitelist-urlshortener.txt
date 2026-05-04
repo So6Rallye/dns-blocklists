@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 May 2026 07:47 UTC
-! Version: 2026.0504.0747.56
+! Last modified: 04 May 2026 16:56 UTC
+! Version: 2026.0504.1656.41
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -4466,7 +4466,6 @@
 @@||linkpatel.com^
 @@||linkpays.in^
 @@||app.linkpod.co^
-@@||linkpool.us^
 @@||linkpop.com^
 @@||linkpop.in^
 @@||linkprotbkita.com^
@@ -4486,7 +4485,6 @@
 @@||links4money.com^
 @@||linksa.me^
 @@||linksable.to^
-@@||linksc.click^
 @@||linkscop.me^
 @@||linksdr.com^
 @@||linksdude.com^
@@ -4584,7 +4582,6 @@
 @@||linqry.com^
 @@||linqup.in^
 @@||lintlink.com^
-@@||linux.mom^
 @@||linxonly.com^
 @@||lionl.ink^
 @@||liquid.loans^
@@ -4673,7 +4670,6 @@
 @@||lnks.city^
 @@||lnks.es^
 @@||lnks.fr^
-@@||lnkshk.com^
 @@||lnkshort.com^
 @@||lnktee.com^
 @@||lnkup.us^
@@ -4734,7 +4730,6 @@
 @@||low-5.com^
 @@||lowrihouston.pro^
 @@||lowx.de^
-@@||loy.ro^
 @@||r.lp2.me^
 @@||lpc.ca^
 @@||lph.la^
@@ -4885,7 +4880,6 @@
 @@||masl.to^
 @@||l2.mastercoria.com^
 @@||masterlink.dev^
-@@||masterpoing.vip^
 @@||masuk.cfd^
 @@||masuk.to^
 @@||masuk-id.info^
@@ -5136,10 +5130,6 @@
 @@||static.monactive.net^
 @@||trackingservice.monday.com^
 @@||mondoagram.com^
-@@||monetiza.co^
-@@||monghaiba.life^
-@@||monghaibon.live^
-@@||monghainam.life^
 @@||monly.id^
 @@||monster.cat^
 @@||info.montbell.com^
@@ -5312,7 +5302,6 @@
 @@||myprivateproxies.org^
 @@||myqlixellink.com^
 @@||myqrcode.mobi^
-@@||mysexychat.live^
 @@||myshopurl.com^
 @@||myshortlink.info^
 @@||myshortlink.net^
@@ -5405,7 +5394,6 @@
 @@||neatlink.ca^
 @@||nectarios.info^
 @@||neexulro.net^
-@@||nefeli.live^
 @@||nefix.de^
 @@||neflixenomovies.com^
 @@||nej.md^
@@ -7109,6 +7097,7 @@
 @@||shortll.com^
 @@||shortlnk.app^
 @@||shortlnk.co^
+@@||shortlnk.me^
 @@||shortlnk.xyz^
 @@||shortlr.com^
 @@||shortlurl.com^

@@ -213,6 +213,7 @@ https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blockl
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.json
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/domains.txt
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.list
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.wildcard.list
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt

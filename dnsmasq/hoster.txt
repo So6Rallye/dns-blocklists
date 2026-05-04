@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 02:29 UTC
-# Version: 2026.0503.0229.31
+# Last modified: 04 May 2026 18:11 UTC
+# Version: 2026.0504.1811.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1317
+# Number of entries: 1316
 #
 local=/000a.de/
 local=/000space.com/
@@ -868,7 +868,6 @@ local=/merchats.com/
 local=/mex.tl/
 local=/mforos.com/
 local=/miarroba.com/
-local=/mindnmagick.com/
 local=/mit-wenig-geld.de/
 local=/mixh.jp/
 local=/mmm.page/

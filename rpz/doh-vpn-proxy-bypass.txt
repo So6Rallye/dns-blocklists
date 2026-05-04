@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777888320 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777913700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 09:52 UTC
-; Version: 2026.0504.0952.01
+; Last modified: 04 May 2026 16:55 UTC
+; Version: 2026.0504.1655.54
 ; Syntax: RPZ
-; Number of entries: 37872
+; Number of entries: 37840
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2739,8 +2739,6 @@ biology.ndr.cl CNAME .
 *.biology.ndr.cl CNAME .
 damon.ndr.cl CNAME .
 *.damon.ndr.cl CNAME .
-katherine-dns.newcore.cl CNAME .
-*.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
 1234learning.nicher.cl CNAME .
@@ -3497,8 +3495,6 @@ lfmreko.cn CNAME .
 *.lfmreko.cn CNAME .
 lostwi.cn CNAME .
 *.lostwi.cn CNAME .
-lovekers.cn CNAME .
-*.lovekers.cn CNAME .
 lqwnlfw.cn CNAME .
 *.lqwnlfw.cn CNAME .
 lunazf.cn CNAME .
@@ -6923,6 +6919,8 @@ daviddoesntmogaastik.com CNAME .
 *.daviddoesntmogaastik.com CNAME .
 rammer.davispetsitter.com CNAME .
 *.rammer.davispetsitter.com CNAME .
+dawninternet.com CNAME .
+*.dawninternet.com CNAME .
 daxiongvpn.com CNAME .
 *.daxiongvpn.com CNAME .
 daxunyunclash.com CNAME .
@@ -11847,10 +11845,6 @@ leitingvpn1.com CNAME .
 *.leitingvpn1.com CNAME .
 dns.lepilleur.com CNAME .
 *.dns.lepilleur.com CNAME .
-lerst-vpn.com CNAME .
-*.lerst-vpn.com CNAME .
-lerstvpn.com CNAME .
-*.lerstvpn.com CNAME .
 les-vpn.com CNAME .
 *.les-vpn.com CNAME .
 lestfvpn.com CNAME .
@@ -12067,8 +12061,6 @@ vocab.mass.liquidateart.com CNAME .
 *.vocab.mass.liquidateart.com CNAME .
 liquidvpn.com CNAME .
 *.liquidvpn.com CNAME .
-brexhack.litecsys.com CNAME .
-*.brexhack.litecsys.com CNAME .
 literacyadventures.com CNAME .
 *.literacyadventures.com CNAME .
 dns.lithvik.com CNAME .
@@ -12171,8 +12163,6 @@ orjp4.lz0724.com CNAME .
 *.orjp4.lz0724.com CNAME .
 lzarflbw.com CNAME .
 *.lzarflbw.com CNAME .
-ag.m0fo.com CNAME .
-*.ag.m0fo.com CNAME .
 mad4todo.com CNAME .
 *.mad4todo.com CNAME .
 maguajc.com CNAME .
@@ -12185,8 +12175,6 @@ maifot.com CNAME .
 *.maifot.com CNAME .
 mainlandvpnapp.com CNAME .
 *.mainlandvpnapp.com CNAME .
-mainprox.com CNAME .
-*.mainprox.com CNAME .
 mainssh.com CNAME .
 *.mainssh.com CNAME .
 dns.malhuda.com CNAME .
@@ -12343,8 +12331,6 @@ learn.logic.metaure.com CNAME .
 *.learn.logic.metaure.com CNAME .
 monitoring.metropolitanstaffingsolutions.com CNAME .
 *.monitoring.metropolitanstaffingsolutions.com CNAME .
-school.metropolitanstaffingsolutions.com CNAME .
-*.school.metropolitanstaffingsolutions.com CNAME .
 mgyfyvyo.com CNAME .
 *.mgyfyvyo.com CNAME .
 mh6mh6mh6mh6mh6.com CNAME .
@@ -12725,8 +12711,6 @@ konataismywaifu.mooo.com CNAME .
 *.konataismywaifu.mooo.com CNAME .
 labubudubai.mooo.com CNAME .
 *.labubudubai.mooo.com CNAME .
-masterman.mooo.com CNAME .
-*.masterman.mooo.com CNAME .
 mathswatch.mooo.com CNAME .
 *.mathswatch.mooo.com CNAME .
 myferntest.mooo.com CNAME .
@@ -13063,8 +13047,6 @@ nebulaholding.com CNAME .
 *.nebulaholding.com CNAME .
 nebxzidz.com CNAME .
 *.nebxzidz.com CNAME .
-arain.neighborhoodcloud.com CNAME .
-*.arain.neighborhoodcloud.com CNAME .
 ixltutor.neitherneitherbooks.com CNAME .
 *.ixltutor.neitherneitherbooks.com CNAME .
 neodon-vpn.com CNAME .
@@ -13093,8 +13075,6 @@ netexplores.com CNAME .
 *.netexplores.com CNAME .
 netpioneeres.com CNAME .
 *.netpioneeres.com CNAME .
-corbiniscool.networkguru.com CNAME .
-*.corbiniscool.networkguru.com CNAME .
 gyatt.networkguru.com CNAME .
 *.gyatt.networkguru.com CNAME .
 scienceisfun11.networkguru.com CNAME .
@@ -20291,8 +20271,6 @@ doh.lacontrevoie.fr CNAME .
 *.doh.lacontrevoie.fr CNAME .
 le-mesle.fr CNAME .
 *.le-mesle.fr CNAME .
-dns.liruz.fr CNAME .
-*.dns.liruz.fr CNAME .
 dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
@@ -20723,8 +20701,6 @@ lastvpn.help CNAME .
 *.lastvpn.help CNAME .
 leevpn.help CNAME .
 *.leevpn.help CNAME .
-lightspeedsystems.help CNAME .
-*.lightspeedsystems.help CNAME .
 lite-vpn.help CNAME .
 *.lite-vpn.help CNAME .
 lumenvpn.help CNAME .
@@ -24083,8 +24059,6 @@ touching.diddy.men CNAME .
 *.touching.diddy.men CNAME .
 hellopeople.dyn.mk CNAME .
 *.hellopeople.dyn.mk CNAME .
-br.servers.legat.ml CNAME .
-*.br.servers.legat.ml CNAME .
 904523.404.mn CNAME .
 *.904523.404.mn CNAME .
 ababaershop67thatscostaquartar.404.mn CNAME .
@@ -27519,8 +27493,6 @@ ns2.level3.net CNAME .
 *.ns2.level3.net CNAME .
 dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
-libertyvpn.net CNAME .
-*.libertyvpn.net CNAME .
 liebaojiasu.net CNAME .
 *.liebaojiasu.net CNAME .
 linbei.net CNAME .
@@ -29025,8 +28997,6 @@ lk-lag.one CNAME .
 *.lk-lag.one CNAME .
 metacubex.one CNAME .
 *.metacubex.one CNAME .
-dns.milkpie.one CNAME .
-*.dns.milkpie.one CNAME .
 one.one.one.one CNAME .
 *.one.one.one.one CNAME .
 opendns.one CNAME .
@@ -29389,8 +29359,6 @@ letlab.online CNAME .
 *.letlab.online CNAME .
 ljq6lqx2et2prq.online CNAME .
 *.ljq6lqx2et2prq.online CNAME .
-lqnklfopm5dde3idofir.online CNAME .
-*.lqnklfopm5dde3idofir.online CNAME .
 lvejbaqzj4v1xupusybd.online CNAME .
 *.lvejbaqzj4v1xupusybd.online CNAME .
 lz3nwoz.online CNAME .
@@ -29415,8 +29383,6 @@ mqmpjgii.online CNAME .
 *.mqmpjgii.online CNAME .
 mrtmeycb.online CNAME .
 *.mrtmeycb.online CNAME .
-mvdnhrxcgv7bp81o8rinti.online CNAME .
-*.mvdnhrxcgv7bp81o8rinti.online CNAME .
 mycbi9cskt.online CNAME .
 *.mycbi9cskt.online CNAME .
 myhalo.online CNAME .
@@ -34471,10 +34437,6 @@ learn.space.my333.space CNAME .
 *.learn.space.my333.space CNAME .
 darklight.neo-space.space CNAME .
 *.darklight.neo-space.space CNAME .
-learn-integers.neo-space.space CNAME .
-*.learn-integers.neo-space.space CNAME .
-watchdocumentary.neo-space.space CNAME .
-*.watchdocumentary.neo-space.space CNAME .
 netvora.space CNAME .
 *.netvora.space CNAME .
 normalmeans.space CNAME .
@@ -35801,6 +35763,8 @@ princez.uk CNAME .
 *.princez.uk CNAME .
 redvpn.uk CNAME .
 *.redvpn.uk CNAME .
+rfnprotection.uk CNAME .
+*.rfnprotection.uk CNAME .
 zetland.rm-ni.uk CNAME .
 *.zetland.rm-ni.uk CNAME .
 xciouveksjkdfsdf.ekcjxvlesdfes.rossco.uk CNAME .
@@ -36873,6 +36837,8 @@ bestproxy.xyz CNAME .
 *.bestproxy.xyz CNAME .
 bigjimmy.xyz CNAME .
 *.bigjimmy.xyz CNAME .
+blockmesh.xyz CNAME .
+*.blockmesh.xyz CNAME .
 bluedns.xyz CNAME .
 *.bluedns.xyz CNAME .
 bolt2s.xyz CNAME .
@@ -37353,6 +37319,8 @@ partmo5.xyz CNAME .
 *.partmo5.xyz CNAME .
 paskam.xyz CNAME .
 *.paskam.xyz CNAME .
+perceptrons.xyz CNAME .
+*.perceptrons.xyz CNAME .
 pingbi.xyz CNAME .
 *.pingbi.xyz CNAME .
 planetvpn-cdn.xyz CNAME .

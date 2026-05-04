@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 May 2026 09:51 UTC
-# Version: 2026.0504.0951.11
+# Last modified: 04 May 2026 16:55 UTC
+# Version: 2026.0504.1655.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3917
+# Number of entries: 3911
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2317,7 +2317,6 @@
 0.0.0.0 leecurrylawfirm.com
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
-0.0.0.0 br.servers.legat.ml
 0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
 0.0.0.0 dns.lepilleur.com
@@ -2346,7 +2345,6 @@
 0.0.0.0 africadns1.liquidtelecom.net
 0.0.0.0 africadns2.liquidtelecom.net
 0.0.0.0 sers.lirlab.su
-0.0.0.0 dns.liruz.fr
 0.0.0.0 dns.listo.click
 0.0.0.0 dns.lithvik.com
 0.0.0.0 dns.litong.dev
@@ -2370,7 +2368,6 @@
 0.0.0.0 deweerd.loseyourip.com
 0.0.0.0 ddd.loukky.com
 0.0.0.0 ddd3.loukky.com
-0.0.0.0 lovekers.cn
 0.0.0.0 n5.lsasss.com
 0.0.0.0 dns.lsho.top
 0.0.0.0 lslnyjq.uk
@@ -2392,7 +2389,6 @@
 0.0.0.0 orau.lz0724.com
 0.0.0.0 orjp4.lz0724.com
 0.0.0.0 addns1.m-it.ro
-0.0.0.0 ag.m0fo.com
 0.0.0.0 v971850.macloud.host
 0.0.0.0 dns.mafyuh.io
 0.0.0.0 guard.magic-pics.tk
@@ -2487,7 +2483,6 @@
 0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
-0.0.0.0 dns.milkpie.one
 0.0.0.0 dns.millernetwork.uk
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
@@ -2708,7 +2703,6 @@
 0.0.0.0 dns.netvpn.net
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
-0.0.0.0 katherine-dns.newcore.cl
 0.0.0.0 doh.nexen.cloud
 0.0.0.0 doh.luigi.nexific.it
 0.0.0.0 dns.nextdns.io
