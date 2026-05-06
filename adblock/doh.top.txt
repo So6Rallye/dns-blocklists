@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 May 2026 16:58 UTC
-! Version: 2026.0505.1658.39
+! Last modified: 06 May 2026 09:55 UTC
+! Version: 2026.0506.0955.19
 ! Syntax: AdBlock
-! Number of entries: 3396
+! Number of entries: 3394
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3093,7 +3093,6 @@
 ||adguard.trevorpease.me^
 ||tri-dns.net^
 ||tributh.net^
-||dns.trifanov-online.ru^
 ||sq.trin.icu^
 ||doh.tritan-bb.net^
 ||trovs.ru^
@@ -3137,7 +3136,6 @@
 ||ines.zfn.uni-bremen.de^
 ||galileo.math.unipd.it^
 ||dns.unitech.company^
-||dns.unitynetwork.ru^
 ||unp.im^
 ||resolver.unstoppable.io^
 ||doh.unveildns.com^

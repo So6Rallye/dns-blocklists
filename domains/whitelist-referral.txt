@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 16:36 UTC
-# Version: 2026.0505.1636.55
+# Last modified: 06 May 2026 07:29 UTC
+# Version: 2026.0506.0729.29
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2165
+# Number of entries: 2184
 #
 1-aclk.net
 1aurl.io
@@ -282,6 +282,7 @@ seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
 72984.seu1.cleverreach.com
+73237.seu1.cleverreach.com
 76216.seu1.cleverreach.com
 78389.seu1.cleverreach.com
 79189.seu1.cleverreach.com
@@ -333,11 +334,14 @@ seu2.cleverreach.com
 206577.seu2.cleverreach.com
 214747.seu2.cleverreach.com
 216589.seu2.cleverreach.com
+219699.seu2.cleverreach.com
 222270.seu2.cleverreach.com
 223618.seu2.cleverreach.com
+225261.seu2.cleverreach.com
 226547.seu2.cleverreach.com
 227080.seu2.cleverreach.com
 227421.seu2.cleverreach.com
+227873.seu2.cleverreach.com
 229280.seu2.cleverreach.com
 230480.seu2.cleverreach.com
 234207.seu2.cleverreach.com
@@ -397,6 +401,7 @@ seu2.cleverreach.com
 342011.seu2.cleverreach.com
 342640.seu2.cleverreach.com
 344934.seu2.cleverreach.com
+345020.seu2.cleverreach.com
 348148.seu2.cleverreach.com
 349715.seu2.cleverreach.com
 350407.seu2.cleverreach.com
@@ -415,14 +420,17 @@ seu2.cleverreach.com
 393666.seu2.cleverreach.com
 394092.seu2.cleverreach.com
 394250.seu2.cleverreach.com
+400070.seu2.cleverreach.com
 415753.seu2.cleverreach.com
 420624.seu2.cleverreach.com
+423117.seu2.cleverreach.com
 426304.seu2.cleverreach.com
 427967.seu2.cleverreach.com
 437503.seu2.cleverreach.com
 439193.seu2.cleverreach.com
 444969.seu2.cleverreach.com
 448914.seu2.cleverreach.com
+449357.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
@@ -520,6 +528,7 @@ convertkit-mail.com
 click.convertkit-mail.com
 1accc1c9.click.convertkit-mail.com
 8534faf0.click.convertkit-mail.com
+92420849.click.convertkit-mail.com
 c09f5da1.click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
@@ -633,6 +642,7 @@ open.convertkit-mail4.com
 74d7b16b.open.convertkit-mail4.com
 76ab7898.open.convertkit-mail4.com
 85fc37b1.open.convertkit-mail4.com
+91e7efd1.open.convertkit-mail4.com
 986419df.open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
@@ -772,6 +782,7 @@ profitshare.emag.ro
 list-unsubscribe.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
 suite.emarsys.net
+suite0.emarsys.net
 suite1.emarsys.net
 suite10.emarsys.net
 suite10-cf.emarsys.net
@@ -1124,6 +1135,7 @@ sites.hscoscdn-eu1.net
 25357283.sites.hscoscdn-eu1.net
 25378200.sites.hscoscdn-eu1.net
 25385986.sites.hscoscdn-eu1.net
+25399637.sites.hscoscdn-eu1.net
 25500997.sites.hscoscdn-eu1.net
 25608636.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
@@ -1157,15 +1169,19 @@ group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
 144395336.group0.sites.hscoscdn-eu1.net
+144743966.group0.sites.hscoscdn-eu1.net
 145506091.group0.sites.hscoscdn-eu1.net
+145543566.group0.sites.hscoscdn-eu1.net
 145609858.group0.sites.hscoscdn-eu1.net
 145642586.group0.sites.hscoscdn-eu1.net
 145725822.group0.sites.hscoscdn-eu1.net
 145892027.group0.sites.hscoscdn-eu1.net
+145935456.group0.sites.hscoscdn-eu1.net
 146229325.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
 146447957.group0.sites.hscoscdn-eu1.net
+147654303.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
 25855289.group0.sites.hscoscdn-eu1.net
 25882072.group0.sites.hscoscdn-eu1.net
@@ -1466,6 +1482,8 @@ mkto-ab400068.com
 mkto-ab400124.com
 mkto-ab400143.com
 mkto-ab420081.com
+mkto-ab420198.com
+mkto-ab430076.com
 mkto-ab430111.com
 mkto-ab430114.com
 mkto-ab430126.com
@@ -1530,6 +1548,7 @@ mkto-d0024.com
 mkto-d0170.com
 mkto-e0014.com
 mkto-e0231.com
+mkto-f0235.com
 mkto-g0030.com
 mkto-g0180.com
 mkto-h0084.com

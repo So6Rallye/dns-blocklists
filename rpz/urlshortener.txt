@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777995000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778053620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 May 2026 15:30 UTC
-; Version: 2026.0505.1530.21
+; Last modified: 06 May 2026 07:47 UTC
+; Version: 2026.0506.0747.24
 ; Syntax: RPZ
-; Number of entries: 19826
+; Number of entries: 19788
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6869,8 +6869,6 @@ www.temporary-url.com CNAME .
 *.www.temporary-url.com CNAME .
 terashort.com CNAME .
 *.terashort.com CNAME .
-terijoss.com CNAME .
-*.terijoss.com CNAME .
 texas88register.com CNAME .
 *.texas88register.com CNAME .
 texmlink.com CNAME .
@@ -7169,8 +7167,6 @@ ualam.com CNAME .
 *.ualam.com CNAME .
 ucamli.com CNAME .
 *.ucamli.com CNAME .
-uchopx.com CNAME .
-*.uchopx.com CNAME .
 udight.com CNAME .
 *.udight.com CNAME .
 short.udon-morishige.com CNAME .
@@ -7719,8 +7715,6 @@ xr.com CNAME .
 *.xr.com CNAME .
 xronia.com CNAME .
 *.xronia.com CNAME .
-xtepio.com CNAME .
-*.xtepio.com CNAME .
 xtglinks.com CNAME .
 *.xtglinks.com CNAME .
 xxuse.com CNAME .
@@ -7747,8 +7741,6 @@ yhqapp.com CNAME .
 *.yhqapp.com CNAME .
 yidbio.com CNAME .
 *.yidbio.com CNAME .
-yigza.com CNAME .
-*.yigza.com CNAME .
 ylinkshort.com CNAME .
 *.ylinkshort.com CNAME .
 yoalizer.com CNAME .
@@ -8161,16 +8153,8 @@ tohle.de CNAME .
 *.tohle.de CNAME .
 go.tomary.de CNAME .
 *.go.tomary.de CNAME .
-trim-me.de CNAME .
-*.trim-me.de CNAME .
-lnk.tu-bs.de CNAME .
-*.lnk.tu-bs.de CNAME .
 twiturl.de CNAME .
 *.twiturl.de CNAME .
-u6e.de CNAME .
-*.u6e.de CNAME .
-ukoeln.de CNAME .
-*.ukoeln.de CNAME .
 underswo.de CNAME .
 *.underswo.de CNAME .
 go.unibw.de CNAME .
@@ -9237,8 +9221,6 @@ on.ny.gov CNAME .
 *.on.ny.gov CNAME .
 on.nyc.gov CNAME .
 *.on.nyc.gov CNAME .
-go.usa.gov CNAME .
-*.go.usa.gov CNAME .
 0.gp CNAME .
 *.0.gp CNAME .
 2.gp CNAME .
@@ -10227,8 +10209,6 @@ vplink.in CNAME .
 *.vplink.in CNAME .
 vprozone.in CNAME .
 *.vprozone.in CNAME .
-webb.in CNAME .
-*.webb.in CNAME .
 weeurl.in CNAME .
 *.weeurl.in CNAME .
 wellwish.in CNAME .
@@ -11219,8 +11199,6 @@ untitledone.io CNAME .
 *.untitledone.io CNAME .
 url1.io CNAME .
 *.url1.io CNAME .
-urlb.io CNAME .
-*.urlb.io CNAME .
 urlbit.io CNAME .
 *.urlbit.io CNAME .
 urlmini.io CNAME .
@@ -11991,8 +11969,6 @@ mv88.lat CNAME .
 *.mv88.lat CNAME .
 tik.lat CNAME .
 *.tik.lat CNAME .
-tvt.lat CNAME .
-*.tvt.lat CNAME .
 whcs.law CNAME .
 *.whcs.law CNAME .
 1z.lc CNAME .
@@ -14533,8 +14509,6 @@ x2y.me CNAME .
 *.x2y.me CNAME .
 xerp.me CNAME .
 *.xerp.me CNAME .
-xib.me CNAME .
-*.xib.me CNAME .
 xn--ru-via.me CNAME .
 *.xn--ru-via.me CNAME .
 xpixl.me CNAME .
@@ -14651,8 +14625,6 @@ prvt.mobi CNAME .
 *.prvt.mobi CNAME .
 tinyurl.mobi CNAME .
 *.tinyurl.mobi CNAME .
-go.westco.mobi CNAME .
-*.go.westco.mobi CNAME .
 ytxt.mobi CNAME .
 *.ytxt.mobi CNAME .
 aaa.moda CNAME .
@@ -14665,8 +14637,6 @@ inf.money CNAME .
 *.inf.money CNAME .
 sexy.jill.survive.from.the.monster CNAME .
 *.sexy.jill.survive.from.the.monster CNAME .
-tiger77.monster CNAME .
-*.tiger77.monster CNAME .
 inkristal777.motorcycles CNAME .
 *.inkristal777.motorcycles CNAME .
 intwitspin.motorcycles CNAME .
@@ -14839,8 +14809,6 @@ tinyurl.my CNAME .
 *.tinyurl.my CNAME .
 tpaper.my CNAME .
 *.tpaper.my CNAME .
-tritri.my CNAME .
-*.tritri.my CNAME .
 use.my CNAME .
 *.use.my CNAME .
 ushort.my CNAME .
@@ -16759,8 +16727,6 @@ vivir.pro CNAME .
 *.vivir.pro CNAME .
 wakgengs.pro CNAME .
 *.wakgengs.pro CNAME .
-xxxdwz.pro CNAME .
-*.xxxdwz.pro CNAME .
 yamu.pro CNAME .
 *.yamu.pro CNAME .
 ylink.pro CNAME .
@@ -17577,8 +17543,6 @@ spread.site CNAME .
 *.spread.site CNAME .
 sty88.site CNAME .
 *.sty88.site CNAME .
-terasherelinks.site CNAME .
-*.terasherelinks.site CNAME .
 totopecah.site CNAME .
 *.totopecah.site CNAME .
 tt5k.site CNAME .
@@ -19357,8 +19321,6 @@ shrt.vip CNAME .
 *.shrt.vip CNAME .
 thesocial.vip CNAME .
 *.thesocial.vip CNAME .
-tuwaga.vip CNAME .
-*.tuwaga.vip CNAME .
 rbit.vision CNAME .
 *.rbit.vision CNAME .
 1url.vn CNAME .

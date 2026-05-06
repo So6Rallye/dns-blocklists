@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 16:58 UTC
-# Version: 2026.0505.1658.08
+# Last modified: 06 May 2026 09:54 UTC
+# Version: 2026.0506.0954.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3449
+# Number of entries: 3447
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3141,7 +3141,6 @@ local=/adguard.treexhd.me/
 local=/adguard.trevorpease.me/
 local=/tri-dns.net/
 local=/tributh.net/
-local=/dns.trifanov-online.ru/
 local=/sq.trin.icu/
 local=/doh.tritan-bb.net/
 local=/trovs.ru/
@@ -3185,7 +3184,6 @@ local=/dns.unerror.network/
 local=/ines.zfn.uni-bremen.de/
 local=/galileo.math.unipd.it/
 local=/dns.unitech.company/
-local=/dns.unitynetwork.ru/
 local=/unp.im/
 local=/resolver.unstoppable.io/
 local=/doh.unveildns.com/

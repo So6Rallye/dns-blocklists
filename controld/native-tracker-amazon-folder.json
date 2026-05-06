@@ -533,7 +533,28 @@
       }
     },
     {
+      "PK": "ads.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-setu-proxy.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-setu-proxy-eu.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-setu-proxy-fe.amazon.com",
       "action": {
         "do": 0,
         "status": 1

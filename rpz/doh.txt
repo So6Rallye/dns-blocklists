@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778000280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778061240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 May 2026 16:58 UTC
-; Version: 2026.0505.1658.08
+; Last modified: 06 May 2026 09:54 UTC
+; Version: 2026.0506.0954.41
 ; Syntax: RPZ
-; Number of entries: 6898
+; Number of entries: 6894
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -5877,16 +5877,12 @@ thxvv.ru CNAME .
 *.thxvv.ru CNAME .
 tigrons.ru CNAME .
 *.tigrons.ru CNAME .
-dns.trifanov-online.ru CNAME .
-*.dns.trifanov-online.ru CNAME .
 trovs.ru CNAME .
 *.trovs.ru CNAME .
 adguard.tver-tech.ru CNAME .
 *.adguard.tver-tech.ru CNAME .
 rb750gr3.ulfhednar.ru CNAME .
 *.rb750gr3.ulfhednar.ru CNAME .
-dns.unitynetwork.ru CNAME .
-*.dns.unitynetwork.ru CNAME .
 v0dka.ru CNAME .
 *.v0dka.ru CNAME .
 vasiliysoldatkin.ru CNAME .

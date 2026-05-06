@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 May 2026 16:58 UTC
-# Version: 2026.0505.1658.08
+# Last modified: 06 May 2026 09:54 UTC
+# Version: 2026.0506.0954.41
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3909
+# Number of entries: 3907
 #
 ss.0001.xyz
 003153.xyz
@@ -3560,7 +3560,6 @@ tri-dns.net
 asia.tri-dns.net
 eu.tri-dns.net
 tributh.net
-dns.trifanov-online.ru
 sq.trin.icu
 doh.tritan-bb.net
 trovs.ru
@@ -3615,7 +3614,6 @@ dns.unerror.network
 ines.zfn.uni-bremen.de
 galileo.math.unipd.it
 dns.unitech.company
-dns.unitynetwork.ru
 unp.im
 resolver.unstoppable.io
 doh.unveildns.com

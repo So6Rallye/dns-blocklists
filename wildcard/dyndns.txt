@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 16:55 UTC
-# Version: 2026.0503.1655.56
+# Last modified: 06 May 2026 09:54 UTC
+# Version: 2026.0506.0954.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1479
+# Number of entries: 1478
 #
 *.0000000000000000000000.com
 *.0x.no
@@ -1382,7 +1382,6 @@
 *.twsuser.com
 *.tzo.com
 *.ucvradio.cl
-*.udp64.de
 *.ufcfan.org
 *.ufodns.com
 *.ugo.si

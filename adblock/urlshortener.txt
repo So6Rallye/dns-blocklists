@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 May 2026 15:30 UTC
-! Version: 2026.0505.1530.21
+! Last modified: 06 May 2026 07:47 UTC
+! Version: 2026.0506.0747.24
 ! Syntax: AdBlock
-! Number of entries: 9913
+! Number of entries: 9894
 !
 ||0.gp^
 ||00m.in^
@@ -7986,12 +7986,10 @@
 ||terabox.in^
 ||teraboxl.cloud^
 ||terakki.link^
-||terasherelinks.site^
 ||terashort.com^
 ||teratai888.ink^
 ||terbar.ink^
 ||terbukti.info^
-||terijoss.com^
 ||terp.icu^
 ||tetherlink.us^
 ||texas-lands.org^
@@ -8098,7 +8096,6 @@
 ||tiddly.io^
 ||tidyurl.link^
 ||tiger388.life^
-||tiger77.monster^
 ||tigerlink.me^
 ||tighturl.com^
 ||tiis.cc^
@@ -8379,7 +8376,6 @@
 ||trim.ac^
 ||trim.cx^
 ||trim.one^
-||trim-me.de^
 ||trim-me.io^
 ||trimaurl.com^
 ||trimify.xyz^
@@ -8395,7 +8391,6 @@
 ||trimurl.co^
 ||trimurls.com^
 ||trisula88short.xyz^
-||tritri.my^
 ||trizlink.com^
 ||trk24.com^
 ||trkr.ws^
@@ -8460,7 +8455,6 @@
 ||tts.sh^
 ||ttt.name^
 ||ttt.onl^
-||lnk.tu-bs.de^
 ||tu4.me^
 ||tuasy.com^
 ||link.tubi.tv^
@@ -8485,11 +8479,9 @@
 ||turtlink.com^
 ||tuskqr.com^
 ||tusviralesc.us^
-||tuwaga.vip^
 ||tvdg.io^
 ||tvote.org^
 ||tvss.jp^
-||tvt.lat^
 ||tvurl.cn^
 ||tw.sv^
 ||tw.uy^
@@ -8546,7 +8538,6 @@
 ||u3vw.shop^
 ||u4r.net^
 ||u4y.ch^
-||u6e.de^
 ||u99.pro^
 ||u9x.wtf^
 ||uabio.me^
@@ -8565,7 +8556,6 @@
 ||ucal.us^
 ||ucamli.com^
 ||ucblib.link^
-||uchopx.com^
 ||ucla.in^
 ||goto.ucr.edu^
 ||udight.com^
@@ -8591,7 +8581,6 @@
 ||ukaz.me^
 ||uke.fan^
 ||ukf.me^
-||ukoeln.de^
 ||ul.rs^
 ||ul.to^
 ||s.ul.com^
@@ -8742,7 +8731,6 @@
 ||urladda.com^
 ||urlao.com^
 ||urlaz.com^
-||urlb.io^
 ||urlbae.com^
 ||urlbee.site^
 ||urlbit.co^
@@ -8938,7 +8926,6 @@
 ||urstoron.com^
 ||urt.io^
 ||urwebs.it^
-||go.usa.gov^
 ||url.usacomment.com^
 ||usanet.tv^
 ||usat.ly^
@@ -9349,7 +9336,6 @@
 ||web99.eu^
 ||urlshortening.webalias.com^
 ||bitly.weballtools.com^
-||webb.in^
 ||webcataloger.com^
 ||webcut.net^
 ||webdevtutor.net^
@@ -9390,7 +9376,6 @@
 ||wenk.io^
 ||go.weplayholding.com^
 ||wes.la^
-||go.westco.mobi^
 ||weworkers.io^
 ||novaurllight.wexisstudios.com^
 ||wez.info^
@@ -9571,7 +9556,6 @@
 ||xgam.es^
 ||xgd.in^
 ||xi.ht^
-||xib.me^
 ||xify.co^
 ||xinghua.plus^
 ||xiqi.us^
@@ -9622,7 +9606,6 @@
 ||xsurl.eu^
 ||xsurl.in^
 ||xt3.me^
-||xtepio.com^
 ||xtglinks.com^
 ||xth.me^
 ||xtr.bz^
@@ -9645,7 +9628,6 @@
 ||xxxdwz.cc^
 ||xxxdwz.co^
 ||xxxdwz.com^
-||xxxdwz.pro^
 ||xxxl.ink^
 ||xy.ar^
 ||xy2.eu^
@@ -9695,7 +9677,6 @@
 ||yhoo.it^
 ||yhqapp.com^
 ||yidbio.com^
-||yigza.com^
 ||yiii.de^
 ||yip.su^
 ||yji.tw^
