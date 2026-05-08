@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 12:07 UTC
-# Version: 2026.0507.1207.18
+# Last modified: 08 May 2026 17:09 UTC
+# Version: 2026.0508.1709.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9891
+# Number of entries: 9894
 #
 local=/0.gp/
 local=/00m.in/
@@ -104,6 +104,7 @@ local=/1ll.us/
 local=/1ly.ru/
 local=/1mm.kr/
 local=/1nk.co/
+local=/1nom.org/
 local=/1o.pl/
 local=/1o2.ir/
 local=/1oe9.one/
@@ -115,6 +116,7 @@ local=/1ql.ca/
 local=/1r2.in/
 local=/1s.is/
 local=/1shop.io/
+local=/1short.io/
 local=/1shortlink.com/
 local=/1stall.com/
 local=/1stgop.co/
@@ -137,6 +139,7 @@ local=/1xfn.tech/
 local=/1xregister.vip/
 local=/1z.lc/
 local=/1zr.in/
+local=/1zx.ir/
 local=/2.gd/
 local=/2.gp/
 local=/2.ht/
@@ -266,6 +269,7 @@ local=/42url.com/
 local=/45h.it/
 local=/46.fi/
 local=/47.de/
+local=/48l.ir/
 local=/49r.de/
 local=/49rs.co/
 local=/4a.lol/
@@ -408,7 +412,6 @@ local=/a11ypm.com/
 local=/a2a.me/
 local=/a2z.tools/
 local=/a360.co/
-local=/a38.fr/
 local=/a3st.in/
 local=/a4r.at/
 local=/a4u.me/

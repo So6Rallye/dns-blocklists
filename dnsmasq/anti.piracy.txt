@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 May 2026 09:55 UTC
-# Version: 2026.0507.0955.43
+# Last modified: 08 May 2026 17:10 UTC
+# Version: 2026.0508.1710.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12496
+# Number of entries: 12511
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -20,6 +20,7 @@ local=/0123movie.stream/
 local=/0123movie.ws/
 local=/0123movies.com/
 local=/0123movies.live/
+local=/0123movies.one/
 local=/0123moviesfree.org/
 local=/01streaming.click/
 local=/01streaming.stream/
@@ -35,6 +36,7 @@ local=/0day.ro/
 local=/0daycn.net/
 local=/0dayddl.com/
 local=/hichemtigsetorgy.0fees.net/
+local=/0gomovies.io/
 local=/0mag.net/
 local=/0magnet.com/
 local=/0vg9r.com/
@@ -98,8 +100,10 @@ local=/123-movies.rs/
 local=/123-movies.zone/
 local=/123animes.ru/
 local=/123cine.to/
+local=/123files.club/
 local=/123fox.net/
 local=/123freemovies.net/
+local=/123hbo.com/
 local=/123hulu.com/
 local=/123movie.blog/
 local=/123movie.cc/
@@ -180,6 +184,7 @@ local=/123unblock.fun/
 local=/ettv.123unblock.world/
 local=/12canime.cc/
 local=/13377x.tw/
+local=/1337x.app/
 local=/1337x.buzz/
 local=/1337x.com/
 local=/1337x.fun/
@@ -214,6 +219,7 @@ local=/1flix.to/
 local=/1gabba.net/
 local=/1gabba.pw/
 local=/tracker.1h.is/
+local=/1hd.to/
 local=/1jour1film.online/
 local=/1jour1film.website/
 local=/1jour1film0226.site/
@@ -231,6 +237,7 @@ local=/1moviesz.to/
 local=/1movietv.com/
 local=/1nd.hu/
 local=/1progs.ru/
+local=/1shows.com/
 local=/1soft.space/
 local=/1stream.top/
 local=/1street.ru/
@@ -6975,8 +6982,14 @@ local=/moviepowder.com/
 local=/movieprofits.com/
 local=/movierot.com/
 local=/movierr.online/
+local=/movieruleshd.com/
+local=/movierulez.us/
+local=/movierulx.com/
 local=/movierulz.yachts/
 local=/movierulzhd.gold/
+local=/movierulznet.com/
+local=/movierulzonline.com/
+local=/movierulzzplz.com/
 local=/movies.cab/
 local=/movies-d.com/
 local=/movies-free.net/
@@ -7837,6 +7850,7 @@ local=/online-tv.de/
 local=/online-tv.ws/
 local=/online24fullmovies.com/
 local=/onlineflix.stream/
+local=/onlinemovierulz.com/
 local=/onlyforscholarship.online/
 local=/onlymovies.org/
 local=/onlytorrents.com/
@@ -9249,6 +9263,7 @@ local=/skymovieshd.cv/
 local=/skymovieshd.diy/
 local=/skymovieshd.earth/
 local=/skymovieshd.fast/
+local=/skymovieshd.free/
 local=/skymovieshd.guru/
 local=/skymovieshd.house/
 local=/skymovieshd.land/

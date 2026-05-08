@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 09:43 UTC
-# Version: 2026.0508.0943.30
+# Last modified: 08 May 2026 17:08 UTC
+# Version: 2026.0508.1708.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 18256
+# Number of entries: 18261
 #
 000000555.xyz
 ss.0001.xyz
@@ -25,6 +25,7 @@ www-666.020202.best
 04bsox5tuyzbhndhrkphxt8t.online
 0538c3060b94774da3ee011552255739.top
 069538.xyz
+06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com
 dns.080590.xyz
 0815cloud.de
 084899.cn
@@ -61,6 +62,7 @@ sg.101818.xyz
 1.11i.eu
 2.11i.eu
 3.11i.eu
+123-proxy.net
 123000123.xyz
 123417.xyz
 d1.12342345.xyz
@@ -140,6 +142,7 @@ county.news.1copa.com
 1ee.top
 1f47epzt.online
 1f76a2ba920d.space
+1proxy.de
 1svpn.biz
 1svpn.com
 1svpn.mom
@@ -170,6 +173,7 @@ canvas.2028.cl
 22044.xyz
 220913.xyz
 22laomao.com
+dns.23-4.cn
 23081r.cn
 233jms.com
 233py.com
@@ -6071,6 +6075,7 @@ enaevym08dequf033jdvbr.online
 enclosr.co
 enclypt.com
 encrypt.me
+encrypt-panicnitro.me
 encryptmy.name
 gdns.end.pub
 hk.end.pub

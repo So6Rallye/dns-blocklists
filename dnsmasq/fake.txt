@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 07:46 UTC
-# Version: 2026.0508.0746.03
+# Last modified: 08 May 2026 17:34 UTC
+# Version: 2026.0508.1734.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14430
+# Number of entries: 14429
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -61,6 +61,7 @@ local=/365pills.com/
 local=/365tageedelmetall.de/
 local=/3d-printing.store/
 local=/3racingparts.com/
+local=/4803967.info/
 local=/4rxofficial.com/
 local=/52magicdownload.com/
 local=/52magicdownloads.com/
@@ -4399,7 +4400,6 @@ local=/figulax.de/
 local=/figurenverkauf.com/
 local=/figurinestoys.com/
 local=/filamniceent.com/
-local=/fillamoda.com/
 local=/fillethumn.com/
 local=/fillinger.shop/
 local=/filloutlet.com/
@@ -10004,7 +10004,6 @@ local=/pardiar.com/
 local=/parex-am.com/
 local=/parfumly.com/
 local=/parfumundkosmetik.com/
-local=/paris-titrisation.fr/
 local=/parisinpink.com/
 local=/parkdesignhome.com/
 local=/parkside-uk.com/

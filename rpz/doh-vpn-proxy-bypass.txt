@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778233380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778260080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 May 2026 09:43 UTC
-; Version: 2026.0508.0943.30
+; Last modified: 08 May 2026 17:08 UTC
+; Version: 2026.0508.1708.40
 ; Syntax: RPZ
-; Number of entries: 36512
+; Number of entries: 36522
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -3223,6 +3223,8 @@ bebra.cm CNAME .
 *.084899.cn CNAME .
 doh.18bit.cn CNAME .
 *.doh.18bit.cn CNAME .
+dns.23-4.cn CNAME .
+*.dns.23-4.cn CNAME .
 23081r.cn CNAME .
 *.23081r.cn CNAME .
 doh.360.cn CNAME .
@@ -3741,6 +3743,8 @@ schoology.college CNAME .
 *.schoology.college CNAME .
 spanish101.college CNAME .
 *.spanish101.college CNAME .
+06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com CNAME .
+*.06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com CNAME .
 09vpn.com CNAME .
 *.09vpn.com CNAME .
 cjklakljfsdfdfe.cxvjlkewdfw.1000pizzas.com CNAME .
@@ -17765,6 +17769,8 @@ selenite.skys.day CNAME .
 *.0815cloud.de CNAME .
 1and1-dns.de CNAME .
 *.1and1-dns.de CNAME .
+1proxy.de CNAME .
+*.1proxy.de CNAME .
 2proxy.de CNAME .
 *.2proxy.de CNAME .
 dns.2t9.de CNAME .
@@ -22467,6 +22473,8 @@ emmmmm.me CNAME .
 *.emmmmm.me CNAME .
 encrypt.me CNAME .
 *.encrypt.me CNAME .
+encrypt-panicnitro.me CNAME .
+*.encrypt-panicnitro.me CNAME .
 drive.google.com.exid.me CNAME .
 *.drive.google.com.exid.me CNAME .
 faceless.me CNAME .
@@ -23299,6 +23307,8 @@ dns.0x55.net CNAME .
 *.dns.0x55.net CNAME .
 dns-revers.1-au.net CNAME .
 *.dns-revers.1-au.net CNAME .
+123-proxy.net CNAME .
+*.123-proxy.net CNAME .
 123inside.net CNAME .
 *.123inside.net CNAME .
 123rooms.net CNAME .

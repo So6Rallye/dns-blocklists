@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 May 2026 07:46 UTC
-! Version: 2026.0508.0746.03
+! Last modified: 08 May 2026 17:34 UTC
+! Version: 2026.0508.1734.06
 ! Syntax: AdBlock
-! Number of entries: 14430
+! Number of entries: 14429
 !
 ||01broker.com^
 ||01crypto.com^
@@ -62,6 +62,7 @@
 ||365tageedelmetall.de^
 ||3d-printing.store^
 ||3racingparts.com^
+||4803967.info^
 ||4rxofficial.com^
 ||52magicdownload.com^
 ||52magicdownloads.com^
@@ -4400,7 +4401,6 @@
 ||figurenverkauf.com^
 ||figurinestoys.com^
 ||filamniceent.com^
-||fillamoda.com^
 ||fillethumn.com^
 ||fillinger.shop^
 ||filloutlet.com^
@@ -10005,7 +10005,6 @@
 ||parex-am.com^
 ||parfumly.com^
 ||parfumundkosmetik.com^
-||paris-titrisation.fr^
 ||parisinpink.com^
 ||parkdesignhome.com^
 ||parkside-uk.com^

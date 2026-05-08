@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778155620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778260140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 May 2026 12:07 UTC
-; Version: 2026.0507.1207.18
+; Last modified: 08 May 2026 17:09 UTC
+; Version: 2026.0508.1709.34
 ; Syntax: RPZ
-; Number of entries: 19782
+; Number of entries: 19788
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -8797,8 +8797,6 @@ go.ford CNAME .
 *.42l.fr CNAME .
 a0.fr CNAME .
 *.a0.fr CNAME .
-a38.fr CNAME .
-*.a38.fr CNAME .
 qr.attps.fr CNAME .
 *.qr.attps.fr CNAME .
 ayt.fr CNAME .
@@ -10583,6 +10581,8 @@ congress.international CNAME .
 *.1p.io CNAME .
 1shop.io CNAME .
 *.1shop.io CNAME .
+1short.io CNAME .
+*.1short.io CNAME .
 1west.io CNAME .
 *.1west.io CNAME .
 2x1.io CNAME .
@@ -11283,6 +11283,8 @@ zuitte.io CNAME .
 *.1fy.ir CNAME .
 1o2.ir CNAME .
 *.1o2.ir CNAME .
+1zx.ir CNAME .
+*.1zx.ir CNAME .
 20l.ir CNAME .
 *.20l.ir CNAME .
 24link.ir CNAME .
@@ -11295,6 +11297,8 @@ zuitte.io CNAME .
 *.301l.ir CNAME .
 3d-ul.ir CNAME .
 *.3d-ul.ir CNAME .
+48l.ir CNAME .
+*.48l.ir CNAME .
 4eq.ir CNAME .
 *.4eq.ir CNAME .
 7g7.ir CNAME .
@@ -15873,6 +15877,8 @@ sah.ooo CNAME .
 *.173ch1.org CNAME .
 1ir.org CNAME .
 *.1ir.org CNAME .
+1nom.org CNAME .
+*.1nom.org CNAME .
 3dsecure.org CNAME .
 *.3dsecure.org CNAME .
 a.6mqw.org CNAME .

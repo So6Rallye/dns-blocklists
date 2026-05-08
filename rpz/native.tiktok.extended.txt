@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775235720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778261160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 17:02 UTC
-; Version: 2026.0403.1702.01
+; Last modified: 08 May 2026 17:26 UTC
+; Version: 2026.0508.1726.48
 ; Syntax: RPZ
-; Number of entries: 1076
+; Number of entries: 1080
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
@@ -234,6 +234,8 @@ ads-api.tiktok.com CNAME .
 *.ads-api.tiktok.com CNAME .
 ads-frontier.tiktok.com CNAME .
 *.ads-frontier.tiktok.com CNAME .
+ads-ru.tiktok.com CNAME .
+*.ads-ru.tiktok.com CNAME .
 ads-service.tiktok.com CNAME .
 *.ads-service.tiktok.com CNAME .
 ads-sg.tiktok.com CNAME .
@@ -918,6 +920,8 @@ ads16-normal-useastred.tiktokw.eu CNAME .
 *.ads16-normal-useastred.tiktokw.eu CNAME .
 analytics-exp-ttp2.tiktokw.eu CNAME .
 *.analytics-exp-ttp2.tiktokw.eu CNAME .
+analytics-exp16-normal-useastred.tiktokw.eu CNAME .
+*.analytics-exp16-normal-useastred.tiktokw.eu CNAME .
 analytics-ie.tiktokw.eu CNAME .
 *.analytics-ie.tiktokw.eu CNAME .
 analytics-ttp2.tiktokw.eu CNAME .

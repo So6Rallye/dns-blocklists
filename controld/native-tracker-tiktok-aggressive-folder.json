@@ -92,6 +92,13 @@
       }
     },
     {
+      "PK": "ads-ru.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-service.tiktok.com",
       "action": {
         "do": 0,
@@ -226,6 +233,13 @@
     },
     {
       "PK": "analytics-attribution-va.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-exp16-normal-useastred.tiktokw.eu",
       "action": {
         "do": 0,
         "status": 1

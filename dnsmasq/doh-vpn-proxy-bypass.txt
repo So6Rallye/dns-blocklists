@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 09:43 UTC
-# Version: 2026.0508.0943.30
+# Last modified: 08 May 2026 17:08 UTC
+# Version: 2026.0508.1708.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18256
+# Number of entries: 18261
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -25,6 +25,7 @@ local=/04a0f262f2f391ead91af1f0ecc6ef3a.top/
 local=/04bsox5tuyzbhndhrkphxt8t.online/
 local=/0538c3060b94774da3ee011552255739.top/
 local=/069538.xyz/
+local=/06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com/
 local=/dns.080590.xyz/
 local=/0815cloud.de/
 local=/084899.cn/
@@ -61,6 +62,7 @@ local=/1145145.com/
 local=/1.11i.eu/
 local=/2.11i.eu/
 local=/3.11i.eu/
+local=/123-proxy.net/
 local=/123000123.xyz/
 local=/123417.xyz/
 local=/d1.12342345.xyz/
@@ -140,6 +142,7 @@ local=/county.news.1copa.com/
 local=/1ee.top/
 local=/1f47epzt.online/
 local=/1f76a2ba920d.space/
+local=/1proxy.de/
 local=/1svpn.biz/
 local=/1svpn.com/
 local=/1svpn.mom/
@@ -170,6 +173,7 @@ local=/22044.vip/
 local=/22044.xyz/
 local=/220913.xyz/
 local=/22laomao.com/
+local=/dns.23-4.cn/
 local=/23081r.cn/
 local=/233jms.com/
 local=/233py.com/
@@ -6071,6 +6075,7 @@ local=/enaevym08dequf033jdvbr.online/
 local=/enclosr.co/
 local=/enclypt.com/
 local=/encrypt.me/
+local=/encrypt-panicnitro.me/
 local=/encryptmy.name/
 local=/gdns.end.pub/
 local=/hk.end.pub/

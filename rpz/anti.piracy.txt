@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778147700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778260200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 May 2026 09:55 UTC
-; Version: 2026.0507.0955.43
+; Last modified: 08 May 2026 17:10 UTC
+; Version: 2026.0508.1710.21
 ; Syntax: RPZ
-; Number of entries: 24992
+; Number of entries: 25022
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -188,6 +188,8 @@ riper.am CNAME .
 *.riper.am CNAME .
 yts.am CNAME .
 *.yts.am CNAME .
+1337x.app CNAME .
+*.1337x.app CNAME .
 5play.app CNAME .
 *.5play.app CNAME .
 9kmovies.app CNAME .
@@ -2342,6 +2344,8 @@ vidstrm.cloud CNAME .
 *.vidstrm.cloud CNAME .
 yesmovies.cloud CNAME .
 *.yesmovies.cloud CNAME .
+123files.club CNAME .
+*.123files.club CNAME .
 4k-hd.club CNAME .
 *.4k-hd.club CNAME .
 altadefinizione.club CNAME .
@@ -2898,6 +2902,8 @@ tracker.0x7c0.com CNAME .
 *.123-hd.com CNAME .
 123-movies.com CNAME .
 *.123-movies.com CNAME .
+123hbo.com CNAME .
+*.123hbo.com CNAME .
 123hulu.com CNAME .
 *.123hulu.com CNAME .
 123moviefree4u.com CNAME .
@@ -2936,6 +2942,8 @@ tracker.0x7c0.com CNAME .
 *.1moviesz.com CNAME .
 1movietv.com CNAME .
 *.1movietv.com CNAME .
+1shows.com CNAME .
+*.1shows.com CNAME .
 1xstream.com CNAME .
 *.1xstream.com CNAME .
 1zib.com CNAME .
@@ -6322,6 +6330,16 @@ movieprofits.com CNAME .
 *.movieprofits.com CNAME .
 movierot.com CNAME .
 *.movierot.com CNAME .
+movieruleshd.com CNAME .
+*.movieruleshd.com CNAME .
+movierulx.com CNAME .
+*.movierulx.com CNAME .
+movierulznet.com CNAME .
+*.movierulznet.com CNAME .
+movierulzonline.com CNAME .
+*.movierulzonline.com CNAME .
+movierulzzplz.com CNAME .
+*.movierulzzplz.com CNAME .
 movies-d.com CNAME .
 *.movies-d.com CNAME .
 movies-out.com CNAME .
@@ -6728,6 +6746,8 @@ onkyo4k.com CNAME .
 *.onkyo4k.com CNAME .
 online24fullmovies.com CNAME .
 *.online24fullmovies.com CNAME .
+onlinemovierulz.com CNAME .
+*.onlinemovierulz.com CNAME .
 onlytorrents.com CNAME .
 *.onlytorrents.com CNAME .
 onnosomoy.com CNAME .
@@ -10338,6 +10358,8 @@ zone-streaming.fr CNAME .
 *.zone-streaming.fr CNAME .
 hdmovie2.free CNAME .
 *.hdmovie2.free CNAME .
+skymovieshd.free CNAME .
+*.skymovieshd.free CNAME .
 streamingcommunity.free CNAME .
 *.streamingcommunity.free CNAME .
 vegamovies.free CNAME .
@@ -11682,6 +11704,8 @@ streamingcommunityz.investments CNAME .
 *.streamingcommunityz.investments CNAME .
 vegamovies.investments CNAME .
 *.vegamovies.investments CNAME .
+0gomovies.io CNAME .
+*.0gomovies.io CNAME .
 123putlocker.io CNAME .
 *.123putlocker.io CNAME .
 a2zapk.io CNAME .
@@ -16162,6 +16186,8 @@ coflix.observer CNAME .
 *.coflix.observer CNAME .
 wookafr.observer CNAME .
 *.wookafr.observer CNAME .
+0123movies.one CNAME .
+*.0123movies.one CNAME .
 10hitmovies.one CNAME .
 *.10hitmovies.one CNAME .
 ahoy.one CNAME .
@@ -21546,6 +21572,8 @@ forja.tn CNAME .
 *.1377x.to CNAME .
 1flix.to CNAME .
 *.1flix.to CNAME .
+1hd.to CNAME .
+*.1hd.to CNAME .
 1l1l.to CNAME .
 *.1l1l.to CNAME .
 1moviesz.to CNAME .
@@ -23466,6 +23494,8 @@ zephir.monocul.us CNAME .
 *.zephir.monocul.us CNAME .
 moviedokan.us CNAME .
 *.moviedokan.us CNAME .
+movierulez.us CNAME .
+*.movierulez.us CNAME .
 mycima.us CNAME .
 *.mycima.us CNAME .
 netcine.us CNAME .

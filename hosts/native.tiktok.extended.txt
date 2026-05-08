@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 17:02 UTC
-# Version: 2026.0403.1702.01
+# Last modified: 08 May 2026 17:26 UTC
+# Version: 2026.0508.1726.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 540
+# Number of entries: 542
 #
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
@@ -169,6 +169,7 @@
 0.0.0.0 url2696.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
+0.0.0.0 ads-ru.tiktok.com
 0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-useast2a.tiktok.com
@@ -526,6 +527,7 @@
 0.0.0.0 ads-ttp2.tiktokw.eu
 0.0.0.0 ads16-normal-useastred.tiktokw.eu
 0.0.0.0 analytics-exp-ttp2.tiktokw.eu
+0.0.0.0 analytics-exp16-normal-useastred.tiktokw.eu
 0.0.0.0 analytics-ie.tiktokw.eu
 0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 analytics-ttp2.tiktokw.eu

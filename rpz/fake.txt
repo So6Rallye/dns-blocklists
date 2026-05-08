@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778226360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778261640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 May 2026 07:46 UTC
-; Version: 2026.0508.0746.03
+; Last modified: 08 May 2026 17:34 UTC
+; Version: 2026.0508.1734.06
 ; Syntax: RPZ
-; Number of entries: 28860
+; Number of entries: 28858
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -6654,8 +6654,6 @@ figurinestoys.com CNAME .
 *.figurinestoys.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
-fillamoda.com CNAME .
-*.fillamoda.com CNAME .
 fillethumn.com CNAME .
 *.fillethumn.com CNAME .
 filloutlet.com CNAME .
@@ -25558,8 +25556,6 @@ ofildeleau.fr CNAME .
 *.ofildeleau.fr CNAME .
 panamajack-france.fr CNAME .
 *.panamajack-france.fr CNAME .
-paris-titrisation.fr CNAME .
-*.paris-titrisation.fr CNAME .
 pharmacieamour.fr CNAME .
 *.pharmacieamour.fr CNAME .
 pocketoption.fr CNAME .
@@ -25642,6 +25638,8 @@ blaunexus.inc CNAME .
 *.blaunexus.inc CNAME .
 gruenstein.inc CNAME .
 *.gruenstein.inc CNAME .
+4803967.info CNAME .
+*.4803967.info CNAME .
 asfinet.info CNAME .
 *.asfinet.info CNAME .
 bitfinancial.info CNAME .

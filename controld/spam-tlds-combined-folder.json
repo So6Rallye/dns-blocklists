@@ -4942,6 +4942,13 @@
       }
     },
     {
+      "PK": "myshopline.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "mysubwaytoolbox.biz",
       "action": {
         "do": 1,
@@ -7274,6 +7281,13 @@
     },
     {
       "PK": "takeb1nzyto.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tapframe.space",
       "action": {
         "do": 1,
         "status": 1

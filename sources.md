@@ -59,7 +59,6 @@ https://opendata.sukl.cz/soubory/NELEGALNI_STRANKY/Nelegalni_stranky_LP.csv
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
-https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
@@ -214,7 +213,6 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/NullAngst/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/content_active.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.list
@@ -249,14 +247,6 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/free_web_hosting.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/onion.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malicious/browser_locker.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_kun3.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/apt_unc6691.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/fakeapp.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/santa.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/malware/silverfox.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/android_pua.txt
-https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/pua.txt
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
